@@ -1,6 +1,4 @@
 # FastDownloader
-
-##Introduction
 It's an aplication built in Java to download files at lightening speed!
 
 ##Features
